@@ -9,7 +9,7 @@ www.baidu.com
 
 ![](https://www.jlu.edu.cn/images/foot_logo.jpg)
 
-![](https://github.com/CVSink/EnglishAssignment/blob/master/header.jpg)
+![本地图片](https://github.com/CVSink/EnglishAssignment/blob/master/header.jpg)
 
 ```c
 printf("hello world");
