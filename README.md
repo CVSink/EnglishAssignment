@@ -5,7 +5,7 @@
 
 www.baidu.com
 
-[另一个文件](https://github.com/CVSink/EglishAssignment/blob/master/Assignment.md)
+[另一个文件](https://github.com/CVSink/EnglishAssignment/blob/master/Assignment.md)
 
 ![](https://www.jlu.edu.cn/images/foot_logo.jpg)
 
